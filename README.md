@@ -1,3 +1,5 @@
+📄 **[Read the Full 11-Page Whitepaper PDF Here](./LLM_Adversarial_Evaluation_Portfolio.pdf)**
+
 # LLM Adversarial Evaluation
 
 Structured adversarial evaluation of frontier LLMs, documenting reproducible failure modes across model families (Claude and GPT).
